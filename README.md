@@ -9,7 +9,8 @@
 </br></br>
 [Git] (https://git-scm.com) </br>
 [AWS CLI](https://aws.amazon.com/cli/) </br>
-[Terraform] (https://www.terraform.io/downloads.html)
+[Terraform] (https://www.terraform.io/downloads.html)</br>
+[WSL] (https://learn.microsoft.com/en-us/windows/wsl/install) ou um próprio sistema Linux 
 
  </p>
 <h3>Rodando a Aplicação</h3>
